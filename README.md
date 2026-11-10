@@ -47,6 +47,47 @@ The lab assignment covers virtual machine configuration, custom NAT Network setu
 - Shared folders and clipboard integration
 - Snapshot creation and recovery
 
+
+---
+
+# WEEK 1 – VIRTUAL CYBERSECURITY LAB SETUP
+
+## Project Report
+
+**Project:** Virtual Cybersecurity Lab Setup
+
+**Objective:** Setting up a virtual lab environment for cybersecurity and ethical hacking practice.
+
+📄 **Download Project Documentation:**
+
+[View / Download Week 1 Project Report](./Week1_Virtual_Lab_Setup_Report.pdf)
+
+---
+
+## Project Screenshots
+
+### Screenshot 1
+![Screenshot 1](./Screenshot%202026-10-28%20215431%20-%20Copy.png)
+
+### Screenshot 2
+![Screenshot 2](./Screenshot%202026-10-28%20215607%20-%20Copy.png)
+
+---
+
+## Additional Images
+
+### Image 1
+![Image 1](./image.png)
+
+### Image 2
+![Image 2](./image%20(1).png)
+
+### Image 3
+![Image 3](./image%20(2).png)
+
+---
+
+
 ⚠️ Disclaimer
 
 This lab is intended for educational purposes and authorized cybersecurity testing only.
